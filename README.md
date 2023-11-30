@@ -1,4 +1,7 @@
 Hi There!
+## Career
+#### 헬스포트(android Developer) : 23.03 ~ 23.08
+#### 투게더스(android Developer) : 23.10 ~ Now
 <br>
 <br>
 <span class="emoji">💪</span> Stacks
