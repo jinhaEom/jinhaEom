@@ -20,8 +20,9 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 <br>
+
+
 ![JinhaEom's github stats](https://github-readme-stats.vercel.app/api?username=jinhaEom&show_icons=true&theme=dark)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhaEom&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
-
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhaEom&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
 </div>
